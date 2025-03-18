@@ -1,0 +1,13 @@
+encontre a complexidade de tempo do
+Bubble Sort recursivo.
+
+T(n)= { 1          ,n = 1
+
+      { n+T(n-1)   ,n > 1
+
+
+T(N)= (n(n+1))/2
+
+(n^2+n)/2
+
+O(n^2)
